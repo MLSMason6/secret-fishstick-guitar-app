@@ -4,9 +4,11 @@
 
 ====
 
-narrative/the problem
+## narrative/the problem
 
-I pick up my guitar. I don't know what play. I play the same songs over and over. I forget all the songs I know or like or want to play. I don't have a playlist of all the songs to listen to them more frequently and learn the lyrics and rhythm and fills and all. Someone asks me what can I play and I can't answer. I sit down with another muscician and we spend too long asking what each other knows or doesn't know. I've been playing for 20+ years off and on. I'm not great but not terrible like I used to be. I sometimes don't pick it up for months and months. I've got lists of songs in apps, notebooks, in open tabs, and all over the place.
+- I pick up my guitar. I don't know what play. I play the same songs over and over. I forget all the songs I know or like or want to play.
+
+- I don't have a playlist of all the songs to listen to them more frequently and learn the lyrics and rhythm and fills and all. Someone asks me what can I play and I can't answer. I sit down with another muscician and we spend too long asking what each other knows or doesn't know. I've been playing for 20+ years off and on. I'm not great but not terrible like I used to be. I sometimes don't pick it up for months and months. I've got lists of songs in apps, notebooks, in open tabs, and all over the place.
 
 test
 
