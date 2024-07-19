@@ -10,7 +10,7 @@ data = {
       notes: "G w/lotta variations on scale",
       tags: ["mellow", "classic"],
       links: [], 
-      onSpotify: false 
+      onSpotify : false 
     },
     { name : "Via Chicago", 
       artist : "Wilco",
