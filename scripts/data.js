@@ -28,7 +28,7 @@ data = {
       status : "heavy and powerful", 
       next : "need to learn the riffs", 
       chords : "no",
-      lyrics : "yest", 
+      lyrics : "yes", 
       notes: "E minor riff with palm muting",
       tags: ["heavy metal", "classic"],
       links: [],
